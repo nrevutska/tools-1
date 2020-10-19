@@ -1,4 +1,5 @@
 const {dest, src} = require('gulp');
+const gulp = require('gulp');
 
 const task1 = async () => {
     return src("./**/*.js")
