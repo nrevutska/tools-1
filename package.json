@@ -6,6 +6,7 @@
   "author": "IT Academy",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-concat": "^0.10"
   }
 }
